@@ -1,0 +1,4 @@
+middleware : something wich sits between the client request and your route handler
+so whenthe browser makes an http request any of your route inside inside our application
+ before it can hit the controller and start exexuting the code if we want to make any cheks and balances 
+ then we use middlewares
