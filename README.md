@@ -33,4 +33,10 @@ Run the application:
 ```
 npm run start
 ```
+## Usage 
+- Institutions: Register, generate, and manage certificates.
+- Users: Log in to access and verify certificates.
+- Public Users: Scan QR codes to validate certificates instantly.
+## Contributors
+- [Yassine OUABOU](https://github.com/yassineouabou)
 
