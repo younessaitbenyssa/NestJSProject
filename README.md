@@ -19,3 +19,18 @@ The Certificate Validation System is a platform that allows educational institut
 - QR Code Generation: qrcode.js
 - Authentication and authorization: JWT
 - encryption: bcrypt
+## Installation & Setup:
+Clone the repository:
+```
+git clone https://github.com/younessaitbenyssa/NestJSProject.git
+```
+Install dependencies:
+```
+cd NestJSProject
+npm install
+```
+Run the application:
+```
+npm run start
+```
+
