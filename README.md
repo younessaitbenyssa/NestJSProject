@@ -17,7 +17,7 @@ The Certificate Validation System is a platform that allows educational institut
 - Backend: NestJS
 - Database: MySql
 - QR Code Generation: qrcode.js
-- Authentication and authorization: JWT
+- Authentication and authorization: jwt
 - encryption: bcrypt
 ## Installation & Setup:
 Clone the repository:
