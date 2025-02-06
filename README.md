@@ -1,9 +1,9 @@
 # Certificate Validation System
 ## 📝 Project Description
-The Certificate Validation System is a platform that allows educational institutions to generate and issue certificates with unique QR codes. These QR codes, when scanned, enable verification of the certificate's authenticity, ensuring that it was issued by the respective institution. Additionally, certificate holders can log in to view and manage their certificates from different institutions in one place.
+The Certificate Validation System is a platform that allows educational institutions to generate and issue certificates with unique QR codes. These QR codes, when scanned, enable verification of the certificate's authenticity, ensuring that it was issued by the respective institution. Additionally, certificate holders can log in to view and manage their certificates from different institutions.
 ## 🚀 Features
 ### Institution Portal:
-- Generate and issue certificates with unique QR codes.
+- Generate and issue certificates with unique QR codes for each graduate.
 - Manage issued certificates and verify authenticity.
 ### QR Code Verification:
 - Users can scan the QR code on a certificate to verify its validity and origin.
