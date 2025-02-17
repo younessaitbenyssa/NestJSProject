@@ -39,4 +39,3 @@ npm run start
 - Public Users: Scan QR codes to validate certificates instantly.
 ## Contributors
 - [Yassine OUABOU](https://github.com/yassineouabou)
-
